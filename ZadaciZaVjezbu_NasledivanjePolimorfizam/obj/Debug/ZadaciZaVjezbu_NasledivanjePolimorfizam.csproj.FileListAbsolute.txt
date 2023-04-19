@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\bin\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.exe.config
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\bin\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.exe
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\bin\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.pdb
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\obj\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\obj\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\obj\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\obj\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.exe
+C:\Users\ucenik\source\repos\ZadaciZaVjezbu_NasledivanjePolimorfizam\obj\Debug\ZadaciZaVjezbu_NasledivanjePolimorfizam.pdb
